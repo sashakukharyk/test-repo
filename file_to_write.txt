@@ -1,3 +1,1 @@
-hello
-bye
-robot
+In order to check homework you should fill appropriate lines to these text files
