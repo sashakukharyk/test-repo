@@ -6,7 +6,6 @@ list_of_letters = list(random_word)
 open_letters = {" "}
 
 guesses = int(input("Set number of guesses: "))
-user_input = ""
 counter = 0
 
 while counter < guesses:
